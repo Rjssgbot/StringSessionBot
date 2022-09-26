@@ -3,9 +3,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = os.getenv("API_ID", "19031598").strip()
-API_HASH = os.getenv("API_HASH", "14e2d2af6e6dc769e60991cab81027d5").strip()
-BOT_TOKEN = os.getenv("BOT_TOKEN", "5665710621:AAFP-O8AW3ekB_basaPR3A7w3YpQDMQbCDY").strip()
+API_ID = os.getenv("API_ID", "13146123").strip()
+API_HASH = os.getenv("API_HASH", "53e10a257baaddea9c413a0c4249e731").strip()
+BOT_TOKEN = os.getenv("BOT_TOKEN", "5663138972:AAHF9IbIfmzZUTxQuWtinZ3KaymRM1dYo0w").strip()
 DATABASE_URL = os.getenv("DATABASE_URL", "postgres://wrboowft:4GkTRolIXOj4vSQVUtFB2ZYgSAluhAAT@heffalump.db.elephantsql.com/wrboowft").strip()
 MUST_JOIN = os.getenv("MUST_JOIN", "RomeoBot_OP")
 
