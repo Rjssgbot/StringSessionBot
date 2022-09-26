@@ -51,7 +51,7 @@ async def main(_, msg):
 
 async def generate_session(bot: Client, msg: Message, telethon=False, old_pyro: bool = False, is_bot: bool = False):
     if telethon:
-        ty = "Romeo"
+        ty = "telethon"
     else:
         ty = "Pyrogram"
         if not old_pyro:
