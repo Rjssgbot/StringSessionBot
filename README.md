@@ -1,7 +1,7 @@
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Romeo-RJ-143/StringSessionBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rjssgbot/StringSessionBot)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 
@@ -75,13 +75,6 @@
 
 - Generate Telethon string session 
 
-## Support
-
-Channel :- [@StarkBots](https://t.me/StarkBots)
-
-Group Chat :- [@StarkBotsChat](https://t.me/StarkBotsChat)
-
-## Support
 
 Channel :- [Support](https://t.me/RomeoBot_OP)
 
